@@ -14,22 +14,20 @@ Su magia está profundamente ligada a la tierra, el ciclo de la vida y la muerte
 
 ## Círculos Disponibles
 
+Los druidas pueden elegir afiliarse a un **Círculo Druídico**, lo que define su enfoque mágico y espiritual.
+
 ### Círculo de la Luna
 
-Este círculo está enfocado en la transformación y el combate cuerpo a cuerpo. Los adeptos del Círculo de la Luna pueden cambiar de forma en bestias poderosas, obteniendo habilidades físicas mejoradas y resistencia. Esta capacidad les permite ser feroces combatientes en primera línea, utilizando formas animales para dominar el campo de batalla.
+Los druidas de la Luna recurren a su naturaleza voluble para transformarse en **criaturas enormes y elementales primigenios**. Su dominio de la **Forma Salvaje** es superior, permitiéndoles adoptar formas más poderosas y con mayor frecuencia. Este círculo representa el poder salvaje y la conexión instintiva con el lado más feroz de la naturaleza.
 
 ### Círculo de la Tierra
 
-Los miembros de este círculo están especializados en el control elemental y la defensa. Aprovechan la fuerza de la tierra y las rocas para protegerse y resistir ataques, además de utilizar hechizos de daño basados en elementos naturales. Son guardianes resilientes, capaces de mantener la línea y apoyar a sus aliados con magia sólida y duradera.
+Este círculo representa a druidas profundamente conectados con la **magia que fluye a través de la tierra** y que une a todos los seres vivos. Obtienen conjuros adicionales ligados al terreno donde crecieron (bosques, montañas, desiertos, etc.), aumentando su versatilidad mágica y resistencia. Son los guardianes del equilibrio natural en estado puro.
 
 ### Círculo de las Esporas
 
-Este círculo se centra en la magia relacionada con la muerte, la putrefacción y los hongos. Los adeptos manipulan esporas y venenos para debilitar a sus enemigos y controlar el terreno. Pueden invocar criaturas relacionadas con hongos y utilizar efectos que dañan progresivamente, aplicando estados alterados y control de masas.
+Para estos druidas, la muerte, la descomposición y el crecimiento fúngico son tan naturales como la vida misma. Manipulan **esporas necrosadas** para fortalecerse y dañar a sus enemigos. Su enfoque puede parecer macabro, pero su poder reside en aceptar el ciclo completo de la existencia y utilizarlo como una herramienta de preservación y destrucción.
 
 ### Círculo de las Estrellas
 
-Los seguidores de este círculo canalizan la energía de los astros y las constelaciones. Utilizan magia que combina el poder celestial con la naturaleza, enfocándose en habilidades tanto ofensivas como curativas. Pueden invocar luz estelar para proteger y fortalecer, así como realizar ataques que desorientan y dañan a sus enemigos con la fuerza del cosmos.
-
----
-
-Esta escuela ofrece una gran diversidad de estilos y enfoques mágicos, permitiendo que los practicantes adapten su conexión con la naturaleza según su personalidad y necesidades, siendo a la vez protectores, guerreros y sanadores.
+Guiados por los **misterios del cosmos**, estos druidas encuentran su poder en la observación y comprensión de las estrellas. Canalizan **constelaciones** para adoptar diferentes formas mágicas y obtener beneficios versátiles en combate o apoyo. Su conexión con el cielo nocturno los convierte en sabios y visionarios entre sus iguales.
