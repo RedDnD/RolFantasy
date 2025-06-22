@@ -8,7 +8,7 @@ Las **mazmorras** son lugares misteriosos y peligrosos donde abundan los monstru
 - Sin embargo, **nuevas mazmorras pueden surgir espontáneamente**, debido a inestabilidades mágicas o antiguas maldiciones despertadas.  
 - Ante el descubrimiento de una mazmorra nueva, es **obligatorio avisar al Gremio de Aventureros**.
 
-## 🛡El Gremio de Aventureros
+## El Gremio de Aventureros
 
 El **Gremio de Aventureros** es la institución encargada de:
 
