@@ -1,6 +1,5 @@
 # Sistema de Alquimia  
 
-## Introducción  
 La alquimia es un arte antiguo que transforma los secretos de la naturaleza en poder líquido. Desde los confines de las ciudades hasta los rincones más ocultos del mundo, existen laboratorios y tiendas alquímicas donde los más sabios manipulan esencias, venenos y elixires para todo tipo de fines.
 
 En estos lugares, conocidos como **Casas de Alquimia**, los frascos brillan con luz propia, los ingredientes burbujean al calor de las llamas, y el conocimiento se mezcla con el riesgo. La alquimia no es solo una profesión, sino una disciplina que puede alterar el destino de quien la domine.
