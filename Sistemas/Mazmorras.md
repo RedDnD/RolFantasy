@@ -79,12 +79,12 @@ Las recompensas por participar en incursiones de mazmorra pueden incluir:
 
 | Rango | Recompensa Monetaria  | Cofres Comunes                             | Cofre en la Zona del Jefe              |
 |-------|-------------------------------|--------------------------------------------|----------------------------------------|
-| E     | $10,000 – $15,000             | Objetos de rango gris, materiales básicos, oro variable | 1 ítem de rango verde             |
-| D     | $15,000 – $25,000             | Objetos grises, materiales, 1 ítem verde  | 1 ítem de rango azul                  |
-| C     | $25,000 – $50,000             | Objetos grises, materiales medios, algunos ítems verdes | 1 o más ítems azules           |
-| B     | $50,000 – $80,000             | Materiales de calidad media-alta, ítems verdes | 1 ítem de rango morado              |
-| A     | $80,000 – $110,000            | Materiales de calidad alta, algunos ítems hasta rango azul | 1 ítem de rango morado       |
-| S     | $110,000 – $145,000           | Materiales muy raros, ítems azules o superiores | 1 ítem de rango morado o superior |
+| E     | 10,000 – 15,000 Kyo            | Objetos de rango gris, materiales básicos, oro variable | 1 ítem de rango verde             |
+| D     | 15,000 – 25,000 Kyo            | Objetos grises, materiales, 1 ítem verde  | 1 ítem de rango azul                  |
+| C     | 25,000 – 50,000 Kyo            | Objetos grises, materiales medios, algunos ítems verdes | 1 o más ítems azules           |
+| B     | 50,000 – 80,000 Kyo            | Materiales de calidad media-alta, ítems verdes | 1 ítem de rango morado              |
+| A     | 80,000 – 110,000 Kyo           | Materiales de calidad alta, algunos ítems hasta rango azul | 1 ítem de rango morado       |
+| S     | 110,000 – 145,000 Kyo          | Materiales muy raros, ítems azules o superiores | 1 ítem de rango morado o superior |
 
 
 Las mazmorras más peligrosas pueden ofrecer **tesoros legendarios o únicos**, pero también implican un riesgo extremo.
