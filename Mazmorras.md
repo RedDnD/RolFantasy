@@ -91,6 +91,6 @@ Las recompensas por participar en incursiones de mazmorra pueden incluir:
 
 Las mazmorras más peligrosas pueden ofrecer **tesoros legendarios o únicos**, pero también implican un riesgo extremo.
 
-## ❓ Preguntas y Asistencia
+## Preguntas y Asistencia
 
 Si tienes alguna duda sobre el sistema de mazmorras, no dudes en preguntar a cualquier miembro del staff. Estamos aquí para ayudarte.
