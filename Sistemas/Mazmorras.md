@@ -1,7 +1,5 @@
 # Sistema de Mazmorras
 
-## Qué son las Mazmorras
-
 Las **mazmorras** son lugares misteriosos y peligrosos donde abundan los monstruos, trampas y recursos mágicos. A diferencia de los antiguos relatos, **no surgen como portales dimensionales**, sino que son **estructuras físicas**: cavernas, ruinas, fortalezas olvidadas, grietas mágicas o templos antiguos.
 
 - La ubicación de todas las mazmorras es **conocida públicamente**.
