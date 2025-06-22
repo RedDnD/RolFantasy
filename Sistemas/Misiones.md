@@ -32,9 +32,9 @@ A continuación, se detalla la dificultad de cada misión y las recompensas esti
 
 | Rango | Dificultad Estimada                       | Descripción                                                       | Recompensa Monetaria     |
 |-------|-------------------------------------------|-------------------------------------------------------------------|---------------------------|
-| E     | Muy baja                                  | Misiones locales: entregar objetos, cazar animales menores        | 5,000 – 10,000 monedas    |
-| D     | Baja                                       | Eliminar grupos débiles, tareas de vigilancia                     | 10,000 – 20,000 monedas   |
-| C     | Media                                      | Monstruos organizados, defensa de aldeas                          | 20,000 – 35,000 monedas   |
-| B     | Alta                                       | Comandantes enemigos, criaturas mágicas, incursiones              | 35,000 – 60,000 monedas   |
-| A     | Muy alta                                   | Defensa de ciudades, eliminación de amenazas élite                | 60,000 – 100,000 monedas  |
-| S     | Extrema (requiere autorización especial)   | Conquista o defensa de territorios clave, amenazas legendarias    | 100,000 – 200,000 monedas |
+| E     | Muy baja                                  | Misiones locales: entregar objetos, cazar animales menores        | 5,000 – 10,000 Kyo    |
+| D     | Baja                                       | Eliminar grupos débiles, tareas de vigilancia                     | 10,000 – 20,000 Kyo   |
+| C     | Media                                      | Monstruos organizados, defensa de aldeas                          | 20,000 – 35,000 Kyo   |
+| B     | Alta                                       | Comandantes enemigos, criaturas mágicas, incursiones              | 35,000 – 60,000 Kyo   |
+| A     | Muy alta                                   | Defensa de ciudades, eliminación de amenazas élite                | 60,000 – 100,000 Kyo  |
+| S     | Extrema (requiere autorización especial)   | Conquista o defensa de territorios clave, amenazas legendarias    | 100,000 – 200,000 Kyo |
