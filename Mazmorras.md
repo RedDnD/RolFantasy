@@ -35,19 +35,6 @@ Las mazmorras se clasifican en seis niveles de peligro, según la densidad y fue
 | A     | 7 personas                      | Nivel élite. Requiere experiencia, planificación y apoyo mágico. |
 | S     | 10 personas + aprobación especial | Amenazas nacionales. Presencia de seres únicos. Muy raras. |
 
-## Requisitos de Ingreso
-
-A partir de cierto rango, **se exige un número mínimo de aventureros** por razones de seguridad:
-
-| Rango | Requisito mínimo de integrantes |
-|-------|---------------------------------|
-| E     | 1 (acceso libre sin permiso)    |
-| D     | 2 personas                      |
-| C     | 3 personas                      |
-| B     | 5 personas                      |
-| A     | 7 personas                      |
-| S     | 10 personas + aprobación directa del Alto Consejo del Gremio |
-
 ## Tipos de Misiones en Mazmorras
 
 Las misiones dentro de mazmorras pueden tener uno de los siguientes tres objetivos principales:
