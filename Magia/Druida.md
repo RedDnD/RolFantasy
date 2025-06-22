@@ -1,7 +1,5 @@
 # Escuela Druídica
 
-## Descripción
-
 La Escuela Druídica representa a aquellos individuos que han forjado una conexión profunda y sagrada con la naturaleza. Los practicantes de la magia druídica son guardianes de los secretos del mundo natural, capaces de canalizar su poder para sanar, proteger, o transformar el entorno que los rodea. Esta magia está arraigada en el respeto por la vida, los ciclos naturales y las fuerzas elementales, permitiendo al druida adaptarse a diversas situaciones y responder con sabiduría y poder a las amenazas.
 
 Los adeptos de la Magia Druídica no solo manipulan los elementos y la energía vital, sino que también poseen la capacidad de cambiar de forma, tomando la apariencia y habilidades de diversas criaturas para enfrentarse a los desafíos que les presenta el mundo.
