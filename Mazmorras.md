@@ -26,14 +26,14 @@ El **Gremio de Aventureros** es la institución encargada de:
 
 Las mazmorras se clasifican en seis niveles de peligro, según la densidad y fuerza de los monstruos que contienen, su complejidad y la presencia de jefes o trampas mágicas.
 
-| Rango | Nivel Recomendado | Descripción |
-|-------|--------------------|-------------|
-| E     | 1–10               | Ideales para principiantes. Poca amenaza. Recursos básicos. |
-| D     | 11–25              | Monstruos en grupos. Necesaria coordinación mínima. |
-| C     | 26–50              | Trampas más complejas, criaturas organizadas. Misiones más largas. |
-| B     | 51–80              | Alta peligrosidad. Jefes menores. Ecosistema hostil. |
-| A     | 81–140             | Nivel élite. Requiere experiencia, planificación y apoyo mágico. |
-| S     | 141+               | Amenazas nacionales. Presencia de seres únicos. Muy raras. |
+| Rango | Requisito mínimo de integrantes | Descripción |
+|-------|----------------------------------|-------------|
+| E     | 1 (libre acceso)                | Ideales para principiantes. Poca amenaza. Recursos básicos. |
+| D     | 2 personas                      | Monstruos en grupos. Necesaria coordinación mínima. |
+| C     | 3 personas                      | Trampas más complejas, criaturas organizadas. Misiones más largas. |
+| B     | 5 personas                      | Alta peligrosidad. Jefes menores. Ecosistema hostil. |
+| A     | 7 personas                      | Nivel élite. Requiere experiencia, planificación y apoyo mágico. |
+| S     | 10 personas + aprobación especial | Amenazas nacionales. Presencia de seres únicos. Muy raras. |
 
 ## Requisitos de Ingreso
 
