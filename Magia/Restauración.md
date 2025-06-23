@@ -30,17 +30,47 @@ La magia de la Escuela de Restauración se especializa en los siguientes aspecto
 
 ## Dominios del Clérigo
 
-Los clérigos eligen un **dominio** que representa el aspecto de la divinidad que veneran. Cada dominio otorga poderes y conjuros específicos:
+Los clérigos eligen un **dominio** que representa el aspecto de la divinidad que veneran. Cada dominio otorga poderes y conjuros específicos
 
-- **Dominio de la Vida**: Centrado en la sanación y la vitalidad. Otorga conjuros que restauran salud, refuerzan la resistencia y protegen contra la muerte.
-- **Dominio de la Luz**: Inspirado por la justicia y la claridad. Proporciona conjuros ofensivos de luz radiante, ideales contra muertos vivientes y fuerzas oscuras.
-- **Dominio de Guerra**: Canaliza la furia y la fuerza del combate sagrado. Mejora la capacidad marcial del clérigo y le otorga conjuros ofensivos y defensivos.
+### Dominio de la Vida
+Asociado a deidades bondadosas, este dominio otorga conjuros para proteger y restaurar mente, cuerpo y alma. Sus clérigos son expertos sanadores y pilares de apoyo en el campo de batalla.
 
+### Dominio de la Luz
+Vinculado a entidades de justicia y majestuosidad, este dominio proporciona conjuros que disipan la oscuridad y castigan a los muertos vivientes. Los clérigos de la luz son heraldos de la verdad e iluminadores del camino.
+
+### Dominio de Guerra
+Otorga la fuerza del fervor sagrado para luchar con poder marcial. Estos clérigos son combatientes versátiles que equilibran devoción y destrucción contra los enemigos de lo sagrado.
 ## Juramentos del Paladín
 
-Los paladines hacen un juramento sagrado que define su causa, sus poderes y su propósito. Este juramento influye en sus capacidades restauradoras y de combate:
+Los paladines hacen un juramento sagrado que define su causa, sus poderes y su propósito. Este juramento influye en sus capacidades restauradoras y de combate.
 
-- **Juramento de los Antiguos**: Defienden la vida, la belleza natural y el ciclo de la creación. Usan magia que protege, cura y ahuyenta la oscuridad.
-- **Juramento de Entrega**: Encarnan la caballerosidad, la justicia y la defensa de los inocentes. Son pilares de esperanza y virtud.
-- **Juramento de Venganza**: Dedicados a castigar el mal con severidad. Su restauración se centra en reforzarse para perseguir y derrotar a los impíos.
-- **Juramento a la Corona**: Juran fidelidad al orden, la ley y la civilización. Protegen el equilibrio y la estructura social con poder divino y liderazgo firme.
+### Juramento de los Antiguos
+Este juramento defiende la belleza de la vida y el mundo natural. Es un compromiso con la esperanza, la luz y la armonía con la naturaleza.
+
+**Principios:**
+- **Aviva la luz:** Mediante tus actos de bondad, aviva la luz de la esperanza en los rincones más sombríos.
+- **Protege la luz:** Allá donde florezca el amor, enfrenta a la maldad que cercenaría su tallo.
+- **Preserva tu propia luz:** Busca el deleite en la cultura y las pequeñas alegrías para mantener viva la luz en tu propio corazón.
+
+### Juramento de Entrega
+Representa el ideal caballeresco de honor y abnegación. Sus paladines se dedican a la justicia, la protección de los inocentes y la defensa del bien común.
+
+**Principios:**
+- **Valor:** Entra en acción sin temor.
+- **Compasión:** Muestra clemencia cuando sea prudente y presta tu brazo a quien lo necesite.
+- **Deber:** Asume tus responsabilidades, obedece las leyes justas y apoya a quienes dependen de ti.
+
+### Juramento de Venganza
+Este juramento guía a los paladines que buscan justicia implacable. Estos cruzados no dudan en perseguir y destruir a quienes han cometido grandes males.
+
+**Principios:**
+- **Lucha contra el mal mayor:** Usa tu sabiduría, identifica la moralidad más elevada en cualquier circunstancia y lucha por ella.
+- **No habrá paz para los malvados:** Castiga a quienes cometen sus fechorías y bárrelos del mundo para siempre, como la plaga que son.
+
+### Juramento a la Corona
+Este juramento vincula al paladín con el orden y la civilización. Son defensores de la ley, la estructura y la autoridad legítima.
+
+**Principios:**
+- **Ley:** Mantén el orden y la civilización.
+- **Lealtad:** Tu palabra es sagrada; sin lealtad, las leyes y los juramentos carecen de significado.
+- **Responsabilidad:** Asume las consecuencias de tus actos y asume tus deberes y obligaciones.
