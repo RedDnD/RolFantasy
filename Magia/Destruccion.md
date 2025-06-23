@@ -19,7 +19,7 @@ La Escuela de Destrucción se divide según la afinidad elemental de cada mago. 
 |---------------|-------------------|-------------|
 | **Fuego**     | **Rayo**          | El fuego representa la destrucción cruda a través del calor y las llamas. Su forma mejorada, el rayo, canaliza energía pura y veloz, capaz de atravesar defensas y generar descargas en cadena. |
 | **Agua**      | **Hielo**         | El agua simboliza la adaptabilidad y el control fluido del entorno. El hielo, su versión mejorada, detiene el movimiento y congela a los enemigos, ideal para el control del campo de batalla. |
-| **Viento**    | **Sonido**        | El viento implica velocidad y precisión cortante. El sonido, su forma superior, desestabiliza a los enemigos mediante vibraciones destructivas que pueden aturdir, hacer sangrar o incluso destruir desde dentro. |
+| **Viento**    | **Sonido**        | El viento implica velocidad y precisión cortante. El sonido, su forma superior, desestabiliza a los enemigos mediante vibraciones destructivas que pueden aturdir al enemigo |
 | **Tierra**    | **Metal**         | La tierra representa la fuerza bruta y la estabilidad. El metal, su forma mejorada, añade precisión y resistencia, permitiendo invocar armas, barreras o proyectiles más poderosos y afilados. |
 
 Los Desviantes no solo pueden alternar entre la forma base y mejorada de su elemento, sino que también pueden fundir ambas en una magia híbrida devastadora. Esta versatilidad los convierte en los magos ofensivos más letales del mundo mágico.
